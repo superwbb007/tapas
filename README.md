@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/29223062/175182128-0fdec40e-81e8-49da-8d76-927f5ae17236.png)
+
 # TAble PArSing (TAPAS)
 
 Code and checkpoints for training the transformer-based Table QA models introduced
